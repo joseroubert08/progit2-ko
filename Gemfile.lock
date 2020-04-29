@@ -32,7 +32,7 @@ GEM
       nokogiri (~> 1.6.1)
       rubyzip (>= 1.1.1)
     hashery (2.1.1)
-    json (1.8.3)
+    json (2.3.0)
     kindlegen (2.9.7)
     mini_portile2 (2.0.0)
     nokogiri (1.6.7.2)
@@ -83,11 +83,11 @@ DEPENDENCIES
   awesome_print
   coderay
   epubcheck
-  json
+  json (>= 2.3.0)
   kindlegen
   pygments.rb
   rake
   thread_safe
 
 BUNDLED WITH
-   1.10.6
+   1.17.3
