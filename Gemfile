@@ -11,7 +11,7 @@ gem 'asciidoctor-pdf', '1.5.0.alpha.11'
 gem 'asciidoctor-pdf-cjk-kai_gen_gothic', '0.1.1'
 
 gem 'coderay'
-gem 'pygments.rb'
+gem 'pygments.rb', '>= 1.0.0'
 gem 'thread_safe'
 gem 'epubcheck'
 gem 'kindlegen'
